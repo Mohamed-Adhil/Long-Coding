@@ -1,0 +1,8 @@
+Ajira Tech Solutions Practice Problem from CTPC.
+
+Problem :
+
+Create a real-time application of a real estate platform, 
+where customers can choose from a list of property according to their chosen location.
+Once they like the property, allow them to connect the owner directly by giving a message. 
+For above case-study write a Object Oriented Programming
